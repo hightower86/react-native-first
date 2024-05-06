@@ -1,7 +1,6 @@
 import { View, Text, Image } from 'react-native';
 import React from 'react';
 import { Tabs, Redirect } from 'expo-router';
-// import { Home, Create, Bookmark, Profile } from '../(tabs)';
 
 import { icons } from '../../constants';
 
